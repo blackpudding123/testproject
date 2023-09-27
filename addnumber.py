@@ -3,3 +3,5 @@ y = 10
 print(x + y)
 z = 15
 w = 20
+
+apple = 34
